@@ -6,7 +6,7 @@
 
 개발자들끼리 코드를 넘어 설계, 테스트 등 다양한 영역에서 서로 리뷰를 하고 의견을 나눌 수 있는 놀이터가 있었으면 좋겠다.
 
-### 기능 목록
+### 기능 브레인 스토밍
 
 - 회원
 
@@ -50,6 +50,10 @@
 - 알림 (실시간)
   - 내가 쓴 게시글 코멘트 등록 시 알림
   - 코멘트에 태깅 시 알림
+---
+Phase 1 
+![image](https://github.com/Udangtangtang-Driven-Developer/.github/assets/22143650/5d28f734-906f-480a-96b6-25719cee5bc9)
+
 
 ### 활용 기술
 - Backend : Nest.js, Prisma
