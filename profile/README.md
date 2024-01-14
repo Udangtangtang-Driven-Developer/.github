@@ -51,8 +51,9 @@
   - 내가 쓴 게시글 코멘트 등록 시 알림
   - 코멘트에 태깅 시 알림
 ---
-Phase 1 
-![image](https://github.com/Udangtangtang-Driven-Developer/.github/assets/22143650/5d28f734-906f-480a-96b6-25719cee5bc9)
+Phase 1 기능 구현 계획
+<img width="911" alt="image" src="https://github.com/Udangtangtang-Driven-Developer/.github/assets/22143650/98b84368-ef2e-43c9-a6e7-a1c7b820ade1">
+
 
 
 ### 활용 기술
